@@ -38,7 +38,6 @@ for(int i=0;i<sWord.length();i++){
 
 
 public String pigLatin(String sWord)
-
 {
   if(findFirstVowel(sWord) == -1)
   {
